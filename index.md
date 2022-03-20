@@ -10,17 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Electric Bike in India
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Case study of electric bike in india. Any one can hire the electric bike who is more than 4.5 feets. There is no presiquite of driving license to drive the electic bike. 
 
-## Header 2
+## Next Gen processor for Client for AI/ML. 
+In definition phase. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Project 3 
 
 ```js
 // Javascript code with syntax highlighting.
